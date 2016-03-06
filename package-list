@@ -1,0 +1,10 @@
+org.usfirst.frc.team2537.robot
+org.usfirst.frc.team2537.robot.arm
+org.usfirst.frc.team2537.robot.auto
+org.usfirst.frc.team2537.robot.camera
+org.usfirst.frc.team2537.robot.drive
+org.usfirst.frc.team2537.robot.input
+org.usfirst.frc.team2537.robot.shooter
+org.usfirst.frc.team2537.robot.shooter.actuator
+org.usfirst.frc.team2537.robot.shooter.angle
+org.usfirst.frc.team2537.robot.shooter.flywheel
